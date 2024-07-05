@@ -115,4 +115,3 @@ function mostrarTempo () {
 }
 
 mostrarTempo();
-//arrumando o commite
